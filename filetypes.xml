@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="file5" type="PLAIN_TEXT" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
+      <mapping pattern="file4" type="PLAIN_TEXT" />
+      <mapping pattern="file3" type="PLAIN_TEXT" />
+      <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

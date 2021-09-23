@@ -1,0 +1,30 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/13.8.0/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-202.7660.37-84f13c691892a2eb4674fb7f40e3741413f86901fe1e590b37a1385665c66a09" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.gist.reindex.count" value="1283" />
+    <property name="fileTypeChangedCounter" value="9" />
+    <property name="ideavim.statistics.timestamp" value="1617782088304" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/squashfs/squashfuse" />
+    <property name="lastSeenTip" value="neue-EditRegExp.html" />
+    <property name="lastTimeTipsWereShown" value="1631792890882" />
+    <property name="org.rust.lang.LAST_UPDATE" value="1632363022810" />
+    <property name="org.rust.lang.LAST_VERSION" value="0.3.135.3484-202" />
+    <property name="seenTips" value="neue-LayoutCode.html,neue-PullMembers.html,neue-GoToAction.html,neue-ExtractTypedef.html,neue-ExcludeFromProject.html,neue-SelectionInLoGView.html,neue-CodeCompletionNoShift.html,neue-RunConfigFolders.html,neue-DeleteLine.html,neue-QuickFix.html,neue-NavigateToFilePath.html,neue-EvaluateExpressionInEditor.html,neue-intention_action_replace_with_between_expression.html,neue-GutterNavigation.html,neue-WordCompletion.html,neue-HighlightUsagesInFile.html,neue-CodeCompletionMiddle.html,neue-RecentFiles.html,neue-ChangesView.html,neue-CtrlW.html,neue-DirDiff.html,neue-MethodUpDown.html,neue-CloseOthers.html,neue-partial_git_commit.html,neue-Welcome.html,neue-ChangeSignature.html,neue-GotoLineInFile.html,neue-InspectCode.html,neue-SpeedSearchinLiveTemplates.html,neue-DBConsole.html,neue-ColorEditingInCss.html,neue-PreviewTODO.html,neue-local_history.html,neue-ScopesInTODO.html,neue-Multicursor.html,neue-QuickDocOnMouseMove.html,neue-CheckRegExp.html,neue-GoToFile.html,neue-VcsQuickList.html,neue-ParameterInfo.html,neue-NonSuspendingBreakpoints.html,neue-CompleteStatement.html,neue-DBColors.html,neue-db_tip_live_connection.html,neue-db_tip_drag_csv_file_to_create_table.html,neue-Move.html,neue-EditorConfig.html,neue-OverrideImplementMethods.html,neue-PredefinedCodeStyle.html,neue-Spellchecker.html,neue-jump_to_colors_fonts.html,neue-CamelPrefixesInNavigationPopups.html,neue-GoToClass.html,neue-ImageFileCompletion.html,neue-FileStructurePopup.html,neue-CancelByControlArrows.html,neue-HorizontalScrolling.html,neue-RecentSearch.html,neue-ExtractParameter.html,neue-FindInPath.html,neue-MethodSeparators.html,neue-SelectIn.html,neue-YouTrack_integration.html,neue-TerminalOpen.html,neue-RemoveBreakpoint.html,neue-LiveTemplatesRestore.html,neue-FindUsages.html,neue-pull_requests.html,neue-ColumnSelection.html,neue-JumpToLastEdit.html,neue-HippieCompletion.html,neue-RenameCssSelector.html,neue-QuickFixRightArrow.html,neue-QuickDocInSuggestionList.html,neue-TabInEditorClose.html,neue-QuickJavaDocInLookups.html,neue-db_tip_forget_cached_schemas.html,neue-NavBar.html,neue-IntroduceConstant.html,neue-Multicursor1.html,neue-SpeedSearch.html,neue-QuickSwitchScheme.html,neue-QuickDefinition.html,neue-GenerateDefinitions.html,neue-CamelHumps.html,neue-Close_all_editor_tabs.html,neue-GoToDeclaration.html,neue-DotEtcInLookups.html,neue-ShowHideSideBars.html,neue-WildcardsInNavigationPopups.html,neue-ShowAppliedStyles.html,neue-EditRegExp.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>
